@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm 24 years old.
+I'm 24 years old. I'm interested in reseaching more about machine learning theory and contributing non-trivial models, methods, or applications.
 
 👨‍🎓 I studied mathematical engineering with my thesis on multimodal and adversarial recommender systems. 
 
 🖥️ Currently, I'm studying a master's degree in computer science, as part of an image retrieval research group.
 
-❗ 👉 I'm looking for a PHD promgram in machine/deep learning applied in any area such as NLP, CV, RecSys, IR, etc.
+👉 I'm looking for a PHD promgram in machine/deep learning applied in any area such as RecSys, IR, NLP, CV, etc.
 
 👨‍💼 Additionally, I have experience in the industry as a data scientist.
 
