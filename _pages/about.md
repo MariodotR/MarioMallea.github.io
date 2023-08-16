@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-✅I'm 24 years old. I'm committed and a hard worker. 
+✅I'm 24 years old and I'm dedicated (a hard worker). 
 ✅I stand out for my communication and teamwork skills. 
 ✅I have an aptitude for understanding and researching.
 
