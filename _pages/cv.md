@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * [2017-2022] Mathematical Engineering, Universidad Técnica Federico Santa María, Chile.
-* [2022-] M.S. computer science, Universidad Técnica Federico Santa María, Chile.
+* [2022-2023] M.S. computer science, Universidad Técnica Federico Santa María, Chile.
 
 Work experience
 ======
@@ -32,7 +32,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -44,5 +45,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
+---
+-->
