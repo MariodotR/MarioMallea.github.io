@@ -2,11 +2,9 @@
 title: "Enhancing intra-modal similarity in a cross-modal triplet loss"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Mario Mallea, [Ricardo Ñanculef](https://scholar.google.com/citations?hl=es&user=hndLsckAAAAJ&view_op=list_works&sortby=pubdate), Mauricio Araya'
+date: 2023-10-09
+venue: '26th International Conference on Discovery Science'
+citation: 'Mario Mallea, Ricardo Ñanculef, Mauricio Araya'
 ---
 
 https://ds2023.inesctec.pt/
@@ -34,6 +32,9 @@ ods in cross-modal and intra-modal retrieval tasks in terms of perfor-
 mance and novelty measures. Our code is publicly available on GitHub
 
 <!---
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
