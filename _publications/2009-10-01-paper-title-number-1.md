@@ -17,10 +17,17 @@ We conduct experiments on three variants of a challenging fashion dataset in whi
 
 Our code is publicly available on GitHub.
 
+
+# Acknowledgement
+
+<img width="856" alt="image" src="https://github.com/MariodotR/MarioMallea.github.io/assets/70358709/36316a89-8a32-48a0-bf91-50381331049c">
+
+
 <!---
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 [//]: #( [Download paper here](http://academicpages.github.io/files/paper1.pdf) )
+[//]: #(Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).)
 -->
 
-[//]: #(Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).)
+
