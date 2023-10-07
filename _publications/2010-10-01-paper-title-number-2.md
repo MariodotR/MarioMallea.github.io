@@ -7,6 +7,8 @@ venue: '26th International Conference on Discovery Science'
 citation: 'Mario Mallea, Ricardo Ñanculef, Mauricio Araya'
 ---
 
+https://link.springer.com/chapter/10.1007/978-3-031-45275-8_17
+
 https://ds2023.inesctec.pt/
 
 **Abstract:** Cross-modal retrieval requires building a common latent space
