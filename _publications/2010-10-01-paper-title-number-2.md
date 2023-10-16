@@ -7,9 +7,9 @@ venue: '26th International Conference on Discovery Science'
 citation: 'Mario Mallea, Ricardo Ñanculef, Mauricio Araya'
 ---
 
-https://link.springer.com/chapter/10.1007/978-3-031-45275-8_17
+**Paper:** https://link.springer.com/chapter/10.1007/978-3-031-45275-8_17
 
-https://ds2023.inesctec.pt/
+**Conference:** https://ds2023.inesctec.pt/
 
 **Abstract:** Cross-modal retrieval requires building a common latent space
 that captures and correlates information from different data modalities,
@@ -32,6 +32,9 @@ We present comprehensive experiments on MS-COCO and Flickr30K,
 demonstrating the advantages and limitations of the proposed meth-
 ods in cross-modal and intra-modal retrieval tasks in terms of perfor-
 mance and novelty measures. Our code is publicly available on GitHub
+
+
+![image](https://github.com/MariodotR/MarioMallea.github.io/assets/70358709/cff50e8f-20c1-4685-9a6c-e9a98e23228c)
 
 <!---
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
