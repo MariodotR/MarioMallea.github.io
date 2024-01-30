@@ -14,7 +14,7 @@ I was born on 1999 and I'm dedicated (a hard worker).
 
 👨‍🎓 I studied mathematical engineering with my thesis on multimodal and adversarial recommender systems. 
 
-🖥️ Currently, I'm studying a master's degree in computer science, as part of an image retrieval research group.
+🖥️ I have a master's degree in computer science, as part of an image retrieval research group.
 
 👉 I'm looking for a PHD program in machine/deep learning applied in any area such as RecSys, IR, NLP, CV, etc.
 
