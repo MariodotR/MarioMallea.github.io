@@ -7,18 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-📩 mario.mallea@sansano.usm.cl
-I was born on 1999 and I'm dedicated (a hard worker). 
-✅I stand out for my communication and teamwork skills. 
-✅I have an aptitude for understanding and researching.
 
 👨‍🎓 I studied mathematical engineering with my thesis on multimodal and adversarial recommender systems. 
 
 🖥️ I have a master's degree in computer science, as part of an image retrieval research group.
 
-👉 I'm looking for a PHD program in machine/deep learning applied in any area such as RecSys, IR, NLP, CV, etc.
-
-I'm interested in reseaching more about machine learning theory and contributing non-trivial models, methods, or applications.
+👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. 
 
 👨‍💼 Additionally, I have experience in the industry as a data scientist.
 
