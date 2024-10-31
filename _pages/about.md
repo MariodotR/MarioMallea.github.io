@@ -14,6 +14,8 @@ redirect_from:
 
 👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. 
 
+https://soco.upc.edu/en/people
+
 👨‍💼 Additionally, I have experience in the industry as a data scientist.
 
 <!---
