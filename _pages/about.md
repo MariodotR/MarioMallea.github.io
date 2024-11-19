@@ -14,9 +14,11 @@ redirect_from:
 
 👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. 
 
+Currently, I'm studying Broad Learning Systems, an efficient neural network. Don't hesitate to write me, I'm open to collaborate in any area of machine learning. 
+
 https://soco.upc.edu/en/people
 
-👨‍💼 Additionally, I have experience in the industry as a data scientist.
+👨‍💼 Additionally, I have experience in the industry as a data scientist. 
 
 <!---
 A data-driven personal website
