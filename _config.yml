@@ -86,17 +86,17 @@ author:
   location         : "From Chile"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.es/citations?user=cQcM38UAAAAJ&hl=en"
   email            : "mario.carlos.mallea@upc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Mario-Mallea-2?ev=hdr_xprf"
+  uri              : "https://medium.com/@mario.mallea"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : #"academicpages"
+  github           : https://github.com/MariodotR
   google_plus      :
   keybase          :
   instagram        :
@@ -107,13 +107,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@MarioCarlosMalleaRuz"
   wikipedia        :
 
 
