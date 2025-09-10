@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+"La originalidad no debe buscarse, pues entonces es extravagancia. La originalidad consiste en el retorno al origen; así pues, original es aquello que vuelve a la simplicidad de las primeras soluciones" -Antoni Gaudí.
 
 👨‍🎓 I studied mathematical engineering with my thesis on multimodal and adversarial recommender systems. 
 
@@ -14,7 +15,7 @@ redirect_from:
 
 👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. 
 
-Currently, I'm studying Broad Learning Systems, an efficient neural network. Don't hesitate to write me, I'm open to collaborate in any area of machine learning. 
+Currently, I'm studying efficient neural network. Don't hesitate to write me, I'm open to collaborate in any area of machine learning. 
 
 https://soco.upc.edu/en/people
 
