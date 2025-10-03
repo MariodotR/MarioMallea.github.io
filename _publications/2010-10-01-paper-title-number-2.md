@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2023-10-09
 venue: '26th International Conference on Discovery Science'
-citation: 'Mario Mallea, Ricardo Ñanculef, Mauricio Araya'
+citation: 'Oporto 2023: Mario Mallea, Ricardo Ñanculef, Mauricio Araya'
 ---
 
 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-45275-8_17
