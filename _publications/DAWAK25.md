@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/DAWAK25
 date: 2025-08-26
 venue: 'Big Data Analytics and Knowledge Discovery'
-citation: 'Mario Mallea Àngela Nebot, Francisco Mugica'
+citation: 'Bangkok 2025: Mario Mallea Àngela Nebot, Francisco Mugica'
 ---
 
 **Paper:** https://link.springer.com/chapter/10.1007/978-3-032-02215-8_10
