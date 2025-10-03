@@ -16,4 +16,5 @@ citation: 'Mario Mallea Àngela Nebot, Francisco Mugica'
 Our experiments reveal that the proposed models outperform EASE on well-known recommendation benchmarks, highlighting the significance of including the user alternative in shallow autoencoder studies for CF.
 
 
+<img width="715" height="953" alt="image" src="https://github.com/user-attachments/assets/37a429aa-d529-40cb-97ff-e47676e50f66" />
 
