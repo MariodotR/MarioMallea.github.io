@@ -17,10 +17,9 @@ redirect_from:
 
 https://soco.upc.edu/en/people
 
-Currently, I'm studying efficient - randomized neural network, reservoir computing and green application in & by AI. 
+Currently, I'm working on efficient - randomized neural networks, reservoir computing and green application in & by AI. My research analyze: learning, reasoning and statistical properties of the modeling of recurrent neural networks and transformers.
 
-
-👨‍💼 Additionally, I have experience in the industry as a data scientist. Multimodal generative AI and machine learning. 
+👨‍💼 Additionally, I have experience in the industry as a data scientist and generative AI software development.
 
 <!---
 A data-driven personal website
