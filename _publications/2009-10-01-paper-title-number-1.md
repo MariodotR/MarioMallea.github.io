@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-09-18
 venue: 'Fifth Workshop on Recommender Systems in Fashion'
-citation: 'Mario Mallea, Ricardo Ñanculef, Denis Parra'
+citation: 'Recsys 23 Singapore (online) & Yokohama 24 (online): Mario Mallea, Ricardo Ñanculef, Denis Parra'
 ---
 
 https://fashionxrecsys.github.io/fashionxrecsys-2023/
