@@ -35,4 +35,4 @@ Y esa pregunta —¿cómo aprender con poco, pero bien?—
 es la que define el futuro de la inteligencia artificial.
 
 
-<img width="715" height="953" alt="image" src="https://github.com/user-attachments/assets/37a429aa-d529-40cb-97ff-e47676e50f66" />
+![image](/images/1000014099.jpg)
