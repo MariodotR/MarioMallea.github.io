@@ -28,13 +28,8 @@ Skills
   * Responsible and committed
   * Spoken communication skills
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
-Conference Publications
+Conferences & Talks
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -42,6 +37,13 @@ Conference Publications
 
 
 <!---  
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
