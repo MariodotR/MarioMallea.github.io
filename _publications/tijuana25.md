@@ -34,5 +34,5 @@ es cuando logramos aprender casi desde cero.
 Y esa pregunta —¿cómo aprender con poco, pero bien?—
 es la que define el futuro de la inteligencia artificial.
 
+![1000014099](https://github.com/user-attachments/assets/f409aa97-77fa-42be-a7c3-aceaaa800b26)
 
-![image](/images/1000014099.jpg)
