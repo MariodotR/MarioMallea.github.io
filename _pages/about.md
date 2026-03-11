@@ -21,6 +21,11 @@ Currently, I'm working on efficient - randomized neural networks, reservoir comp
 
 👨‍💼 Additionally, I have experience in the industry as a data scientist and generative AI software development.
 
+
+<img width="11021" height="6028" alt="Concurso Fotografico (1)" src="https://github.com/user-attachments/assets/38c22807-ac04-4983-ac8b-0df235eb69a3" />
+
+This figure shows how two randomized artificial neural networks classify handwritten digits. For each class (0-9), we applied an interpretability method, taking a test image and overlaying a relevance map computed from the model's learned features. We can observe that a typical randomized neural network often concentrates on isolated, noisy pixels, suggesting the model uses spurious cues. In contrast, our proposal concentrates on smooth connected segments that trace the digit shape, indicating more coherent, accurate, and robust decision rules. Results published in DOI: [10.1016/j.eswa.2025.129948](http://dx.doi.org/10.1016/j.eswa.2025.129948) .
+
 <!---
 A data-driven personal website
 ======
