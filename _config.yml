@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.es/citations?user=cQcM38UAAAAJ&hl=en"
   email            : "mario.carlos.mallea@upc.edu"
   researchgate     : "https://www.researchgate.net/profile/Mario-Mallea-2?ev=hdr_xprf"
-  uri              : "https://medium.com/@mario.mallea"
+  uri              : #"https://medium.com/@mario.mallea"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@MarioCarlosMalleaRuz"
+  youtube          : #"@MarioCarlosMalleaRuz"
   wikipedia        :
 
 
