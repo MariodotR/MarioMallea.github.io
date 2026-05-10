@@ -15,7 +15,7 @@ Scientific divulgation: [Youtube](https://www.youtube.com/@MarioCarlosMalleaRuz)
 
 🖥️ I have a master's degree in computer science, as part of an image retrieval research group.
 
-👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. [SOCO Groups](https://soco.upc.edu/en/people)
+👉 I'm doing a PhD about AI at UPC, Barcelona, Spain. [SOCO Group](https://soco.upc.edu/en/people)
 
 Currently, I'm working on efficient - randomized neural networks, reservoir computing and green application in & by AI. My research analyze: learning, reasoning and statistical properties of the modeling of recurrent neural networks and transformers.
 
