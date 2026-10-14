@@ -1,4 +1,3 @@
-
 ---
 title: "Las máquinas aprendieron a ver, pero para razonar requieren eficiencia"
 collection: publications
@@ -10,6 +9,7 @@ citation: 'Padova 2026: Mario Mallea'
 
 **Paper: **
 
+Published in 35th International Conference on Artificial Neural Networks (ICANN 2026), taking place in Padova, Italy.
 **Worksop: ** The 4th International Workshop on Reservoir Computing (RC 2026). https://sites.google.com/unipi.it/reservoircomputing2026?pli=1&authuser=0
 
 **Abstract: ** Efficient sequence modeling remains a fundamental challenge in machine learning. Despite the success of Transformers, recurrent neural networks (RNNs) have recently re-emerged as efficient alternatives. Particularly, Echo State Networks (ESNs) offer a compelling framework of randomized RNNs that have been extensively studied for time-series forecasting and dynamical systems. This paper presents an empirical analysis of distributional, architectural, and optimization variants of ESNs evaluated on few-shot sequence-to-sequence (seq2seq) pattern tasks. These synthetic tasks utilize discrete symbol sequences, characterized by delays, inactive phases, and triggered markers to isolate and evaluate memory and pattern recognition capabilities. The minimality of these tasks is crucial to understand the strengths and limitations of machine learning models. Furthermore, when the input signal utilizes a one-hot encoding, ESN dynamics are governed strictly by their weight distributions, offering an ideal lens through which to study reservoir computing. 
