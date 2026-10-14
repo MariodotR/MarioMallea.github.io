@@ -3,7 +3,7 @@ title: "Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Patter
 collection: publications
 permalink: /publication/padova
 date: 2026-09-14
-venue: '35th International Conference on Artificial Neural Networks (ICANN 2026), taking place in Padova, Italy.'
+venue: 'ICANN 2026, in Padova, Italy.'
 citation: 'Padova 2026: Mario Mallea, Àngela Nebot, Francisco Mugica'
 ---
 
